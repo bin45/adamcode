@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Murtala Adam Muhammad</title>
+    <link>https://bin45.github.io/adamcode/</link>
+    <description>Recent content in Data Science Portfolio on Murtala Adam Muhammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://bin45.github.io/adamcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Covid-19 Diagnosis</title>
+      <link>https://bin45.github.io/adamcode/post/project-1/</link>
+      <pubDate>Sat, 27 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://bin45.github.io/adamcode/post/project-1/</guid>
+      <description>Created a tool that predict admission to ICU of confirmed COVID-19 cases, to help healthcare system cater for patient who will need ICU support.
+  Decision Tree Classifier, Gaussian Naive Bayes, ExtraTrees Classifier, XGB Classifier, Logistic Regression are used to reach the best model.
+  After using Step Backwards Features Selection Method, Extra Trees Classifier gave the best accuracy of 74%
+   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bin45.github.io/adamcode/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bin45.github.io/adamcode/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/bin_alaaya   LinkedIn: https://linkedin.com/in/muadam/   GitHub: https://github.com/bin45    </description>
+    </item>
+    
+  </channel>
+</rss>
